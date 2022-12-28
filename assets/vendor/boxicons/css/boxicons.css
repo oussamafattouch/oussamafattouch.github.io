@@ -1948,7 +1948,7 @@
   .bx-copy-alt:before {
     content: "\ea85";
   }
-  .bx-copyright:before {
+  .bx-none:before {
     content: "\ea86";
   }
   .bx-credit-card:before {
@@ -4165,7 +4165,7 @@
   .bxs-copy-alt:before {
     content: "\ed68";
   }
-  .bxs-copyright:before {
+  .bxs-none:before {
     content: "\ed69";
   }
   .bxs-coupon:before {

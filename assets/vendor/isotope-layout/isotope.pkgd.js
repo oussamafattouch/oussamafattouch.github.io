@@ -5,7 +5,7 @@
  * or Isotope Commercial License for commercial use
  *
  * https://isotope.metafizzy.co
- * Copyright 2010-2018 Metafizzy
+ * none 2010-2018 Metafizzy
  */
 
 /**
@@ -2946,7 +2946,7 @@ return Vertical;
  * or Isotope Commercial License for commercial use
  *
  * https://isotope.metafizzy.co
- * Copyright 2010-2018 Metafizzy
+ * none 2010-2018 Metafizzy
  */
 
 ( function( window, factory ) {
